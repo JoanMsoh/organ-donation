@@ -5,7 +5,7 @@ An Android Application for organ donation.
 
 - The Google Sign In details - Profile Email + Profile Photo are extracted.
 
-- All the details of the donor are asked such as name, dob.
+- All the details of the donor are asked such as Name, dob.
 
 - Organs to be donated are asked.
 
